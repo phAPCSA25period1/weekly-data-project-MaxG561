@@ -3,6 +3,10 @@
 # AP CSA Project: Weekly Data Analyzer  
 
 ---
+## Project details
+author: Max. Gershwin
+program type: budget analyzer
+description: this program sets a daily budget goal and at the end of the week gives insight on what days they went over budget or under budget, and their average spending lowest spending and highest spending.
 
 ## 📌 Project Overview
 
